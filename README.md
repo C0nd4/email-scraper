@@ -5,6 +5,6 @@ This script will scrape a user supplied list of URLs for email addresses. The cu
 ## Usage
 
 1. Install chromedriver for your version of Google Chrome from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
-2. Change "CHROME_DRIVER_LOCATION" in email.scraper.py to the location of chromedriver.exe\
+2. Change "CHROME_DRIVER_LOCATION" in email.scraper.py to the location of chromedriver.exe
 3. Install dependencies with `$ pip3 install -r requirements.txt`
 4. Run script with `$ ./email-scraper.py -i <input_file> -o <output_file>`
